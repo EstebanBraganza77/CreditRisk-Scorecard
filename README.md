@@ -37,7 +37,7 @@ This repository contains a Jupyter Notebook for performing credit risk Probabili
     ```bash
     jupyter notebook
     ```
-    Open `credit_risk_pd_modelization.ipynb` in the Jupyter interface to explore the workflow.
+    Open `CreditRisk.ipynb` in the Jupyter interface to explore the workflow.
 
 ## Data
 
