@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook for performing credit risk Probabili
 
 ## Repository Contents
 
-- `credit_risk_pd_modelization.ipynb`: The main Jupyter Notebook containing the entire workflow for credit risk PD modelization.
+- `CreditRisk.ipynb`: The main Jupyter Notebook containing the entire workflow for credit risk PD modelization.
 - `data/`: Directory where you can place your dataset(s).
 - `results/`: Directory to store results such as figures, tables, and model outputs.
 - `requirements.txt`: List of required Python libraries for running the notebook.
